@@ -1,5 +1,4 @@
 import numpy as np
-from collections import deque
 import skimage.io as io
 
 
